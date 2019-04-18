@@ -12,9 +12,10 @@ facility](http://www.imperial.ac.uk/medicine/facility-for-imaging-by-light-micro
 at Imperial College London, but should work for any microscopy software that
 allows setting a coordinate system based on a reference point.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/c22n/udish-coord-converter/master?filepath=microscopy-coordinate-transform.ipynb)
+
 Procedure
 ---------
-
 1.  Set zero location on first reference mark.
 2.  Note coordinate of second reference mark.
 3.  Make recordings as per experiment being conducted, noting coordinates of
@@ -23,5 +24,8 @@ Procedure
     different fluorescent marker), start by again setting zero location to
     first reference mark.
 5.  Note coordinate of second reference mark in this second session.
-6.  Open binder link above and input coordinate data into Jupyter notebook
-    cell to calculate converter coordinates to return to the same location.
+6.  Open binder link above (and below) and input coordinate data into Jupyter
+    notebook cell to calculate converter coordinates to return to the same
+    location.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/c22n/udish-coord-converter/master?filepath=microscopy-coordinate-transform.ipynb)
