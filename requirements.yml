@@ -1,0 +1,6 @@
+name: udish-converter
+dependencies:
+  - python=3
+  - numpy
+  - matplotlib
+  - jupyter
